@@ -38,6 +38,7 @@ Nesse contexto, o TCC propõe implementar um sistema de proteção de imagens se
   <b>Fonte: Elaborado pelo autor.</b>
 </p>
 
+Dentro desse contexto, os processos que serão convertidos para utilizar vetorização são a aplicação do XOR entre a matriz QRNG e a imagem original e a ordenação dos pixels por meio do mapa logístico caótico.
 
 ## Recursos Utilizados
 
